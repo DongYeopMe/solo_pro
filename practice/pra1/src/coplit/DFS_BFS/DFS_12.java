@@ -1,4 +1,4 @@
-package coplit;
+package coplit.DFS_BFS;
 
 import java.util.*;
 public class DFS_12 {

@@ -1,4 +1,4 @@
-package coplit;
+package coplit.DFS_BFS;
 
 public class Both_11 {
     //{from,to,direction}
