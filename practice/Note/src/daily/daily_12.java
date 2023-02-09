@@ -1,4 +1,4 @@
-package coplit;
+package daily;
 import java.util.*;
 public class daily_12 {
     public static void main(String[] args) {
